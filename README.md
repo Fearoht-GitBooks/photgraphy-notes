@@ -2,8 +2,6 @@
 
 ## INTRODUCCIÓN AL MUNDO DE LA FOTOGRAFÍA
 
-!\[Mundo Fotografico\]\([https://raw.githubusercontent.com/Fearoht-GitBooks/photography-notes-images/main/introduccion\_mundo\_fotografia\_1.jpg](https://raw.githubusercontent.com/Fearoht-GitBooks/photography-notes-images/main/introduccion_mundo_fotografia_1.jpg)\)
-
 ![](.gitbook/assets/introduccion_mundo_fotografia_1.jpg)
 
 **Fotografía**: Es el arte de producir imágenes por acción de la luz.
