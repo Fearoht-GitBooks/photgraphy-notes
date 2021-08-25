@@ -56,7 +56,7 @@ El daguerrotipo positivo, sostenía que la dinámica de cualquier situación dad
 
 Desde la década de 1860 hasta la de 1890, la fotografía fue concebida como una alternativa al dibujo y a la pintura. Las primeras normas de crítica aplicadas a ella fueron, aquellas que se empleaban. Alrededor de 1870 se aceptó la práctica de hacer posar a los sujetos en el estudio, para después retocar y matizar las fotos con el fin de que pareciesen pinturas.
 
-####  **La fotografía en sí misma.**
+#### **La fotografía en sí misma.**
 
 Los estudios retratistas de Cameron consistían en primeros planos con iluminación intensa, para revelar toda la fuerza del carácter de los personajes.
 
