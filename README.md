@@ -4,6 +4,8 @@
 
 !\[Mundo Fotografico\]\([https://raw.githubusercontent.com/Fearoht-GitBooks/photography-notes-images/main/introduccion\_mundo\_fotografia\_1.jpg](https://raw.githubusercontent.com/Fearoht-GitBooks/photography-notes-images/main/introduccion_mundo_fotografia_1.jpg)\)
 
+![](.gitbook/assets/introduccion_mundo_fotografia_1.jpg)
+
 **Fotografía**: Es el arte de producir imágenes por acción de la luz.
 
 La palabra, “Fotografía” tal y como la conocemos ahora, la utilizó por primera instancia en 1839 Sir John Herschel. En ese mismo año se publicó todo el proceso fotográfico. La palabra se deriva del griego foto igual a; \(luz\) y grafos de escritura.
