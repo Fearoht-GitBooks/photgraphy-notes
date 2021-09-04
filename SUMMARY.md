@@ -1,5 +1,5 @@
 # Table of contents
 
-* [INTRODUCCIÓN AL MUNDO DE LA FOTOGRAFÍA](README.md)
+* [Introducción al mundo de la fotografía](README.md)
 * [Fotografia](fotografia.md)
 
