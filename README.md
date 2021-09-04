@@ -1,8 +1,6 @@
 # Introducción al mundo de la fotografía
 
-![](.gitbook/assets/introduccion_mundo_fotografia_1.jpg)
-
-**Fotografía**: Es el arte de producir imágenes por acción de la luz.
+![Fotograf&#xED;a: Es el arte de producir im&#xE1;genes por acci&#xF3;n de la luz.](.gitbook/assets/introduccion_mundo_fotografia_1.jpg)
 
 La palabra, “Fotografía” tal y como la conocemos ahora, la utilizó por primera instancia en 1839 Sir John Herschel. En ese mismo año se publicó todo el proceso fotográfico. La palabra se deriva del griego foto igual a; \(luz\) y grafos de escritura.
 
